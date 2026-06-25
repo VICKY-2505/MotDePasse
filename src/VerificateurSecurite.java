@@ -11,7 +11,7 @@ public class VerificateurSecurite {
                     "docker",
                     "run",
                     "--rm",
-                    "password-checker",
+                    "password",
                     mdp
             );
 
